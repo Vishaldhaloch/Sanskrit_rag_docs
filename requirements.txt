@@ -1,0 +1,4 @@
+llama-cpp-python
+rank_bm25
+nltk
+python-docx
